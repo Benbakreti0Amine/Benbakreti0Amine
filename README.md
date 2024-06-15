@@ -1,4 +1,3 @@
-[![MasterHead](https://media2.giphy.com/media/2vENsSPSSKrfnYFmsf/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Benbakreti Mohammed El Amine</h1>
 <h3 align="center">A passionate mobile and backend developer from Algeria</h3>
 
