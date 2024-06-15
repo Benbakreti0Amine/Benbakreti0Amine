@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benbakreti Mohammed El Amine</h1>
 <h3 align="center">A passionate mobile and backend developer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/dfdovFdpha7TK2NJ7HLE1T5n2pzTisSHHIWWVosAE6c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LXdhbGtpbmctY2F0/LTE3bWl0d2t6aXcy/eHp4eGsuZ2lm.gif">
+
 
 - 🌱 I’m currently learning **AI and machine learning**
 
