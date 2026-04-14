@@ -5,7 +5,7 @@
 - 🤖 I enjoy building intelligent systems and working on projects involving **computer vision, deep learning, and data-driven applications**
 - 💻 I also have a solid background in **software development**, especially in backend and mobile development
 - 🌱 I’m currently strengthening my skills in **Machine Learning, Deep Learning, and AI engineering**
-- 📫 How to reach me: **m.benbakreti@esi-sba.dz**
+- 📫 How to reach me: **ma.benbakreti@gmail.com**
 - 💼 I’m currently looking for an **alternance in AI / Data / Machine Learning**
 
 <h3 align="left">Languages and Tools 👨‍💻</h3>
