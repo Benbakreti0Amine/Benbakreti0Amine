@@ -2,11 +2,10 @@
 <h3 align="center">AI & Data Science student | Aspiring AI Engineer | Open to Alternance opportunities</h3>
 
 - 🎓 I’m currently pursuing a Master’s degree in Computer Science, with a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**
-- 🤖 I enjoy building intelligent systems and working on projects involving **computer vision, deep learning, and data-driven applications**
-- 💻 I also have a solid background in **software development**, especially in backend and mobile development
-- 🌱 I’m currently strengthening my skills in **Machine Learning, Deep Learning, and AI engineering**
-- 📫 How to reach me: **ma.benbakreti@gmail.com**
-- 💼 I’m currently looking for an **alternance in AI / Data / Machine Learning**
+-  I enjoy building intelligent systems and working on projects involving **computer vision, deep learning, and data-driven applications**
+-  I also have a solid background in **software development**, especially in backend and mobile development
+-  I’m currently strengthening my skills in **Machine Learning, Deep Learning, and AI engineering**
+-  How to reach me: **ma.benbakreti@gmail.com**
 
 <h3 align="left">AI, Data & Development Stack 👨‍💻</h3>
 <p align="left">
