@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benbakreti Mohammed El Amine</h1>
-<h3 align="center">AI & Data Science student | Aspiring AI Engineer | Open to Alternance opportunities</h3>
+<h3 align="center">AI & Data Science student | Aspiring AI Engineer | Open to internship opportunities</h3>
 
 - 🎓 I’m currently pursuing a Master’s degree in Computer Science, with a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**
 -  I enjoy building intelligent systems and working on projects involving **computer vision, deep learning, and data-driven applications**
